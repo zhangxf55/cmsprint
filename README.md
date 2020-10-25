@@ -1,5 +1,7 @@
 # cmsprint
 CMS和中间件指纹库
+Fork自https://github.com/Lucifer1993/cmsprint，向Lucifer1993致敬
+增加了简单的自动扫描程序，修正了指纹库中一处微小的格式错误
 
 ## Md5指纹: 967, 正则指纹: 853
 

@@ -9769,7 +9769,7 @@
             "cmsname": "dzzoffice",
             "staticurl": "/dzz/images/logo.png",
             "checksum": "ea3e5ec285504e56213f8d3a75367195",
-            "homeurl": "static/css/common.css",
+            "homeurl": "/static/css/common.css",
             "keyword": "dzz-attach",
             "type": "webcms",
             "remark": "DzzOffice协同办公平台"
